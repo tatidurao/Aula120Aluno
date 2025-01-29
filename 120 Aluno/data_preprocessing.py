@@ -7,7 +7,7 @@ stemmer = PorterStemmer()
 import json
 import pickle
 import numpy as np
-import random
+import random 
 
 words=[] #lista de palavras-raiz únicas nos dados
 classes = [] #lista de tags únicas nos dados
